@@ -1,4 +1,4 @@
-# 🐍 Programa de Programación Orientada a Objetos (POO) en Python
+# Programa de Programación Orientada a Objetos (POO) en Python
 
 Este proyecto fue desarrollado como parte de la práctica de clase, utilizando los conceptos fundamentales de la **Programación Orientada a Objetos (POO)** en Python.
 
